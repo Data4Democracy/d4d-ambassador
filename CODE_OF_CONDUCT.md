@@ -2,7 +2,7 @@
 
 ## 1. Purpose
 
-A primary goal of D4d Ambassador is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of D4D Ambassador is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
@@ -12,7 +12,7 @@ We invite all those who participate in D4d Ambassador to help us create safe and
 
 A supplemental goal of this Code of Conduct is to increase open [source/culture/tech] citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
 
-Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
+Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society and upon which many of our institutions are built.
 
 If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
 
@@ -21,11 +21,12 @@ If you see someone who is making an extra effort to ensure our community is welc
 The following behaviors are expected and requested of all community members:
 
  * Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
- * Exercise consideration and respect in your speech and actions.
+ * Exercise inclusivity, equity, consideration and respect in your speech and actions.
  * Attempt collaboration before conflict.
- * Refrain from demeaning, discriminatory, or harassing behavior and speech.
- * Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
- * Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
+ * Refrain from racist, sexist, demeaning, discriminatory, or harassing behavior and speech.
+ * Ask for permission and obtain consent before you send others private messages.
+ * Be mindful of your surroundings and of your co-participants. Alert community leaders if you notice a dangerous situation, someone being targeted, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
+ * Remember that community event venues may be shared with members of the public; please be respectful to all people in these locations.
 
 ## 4. Unacceptable Behavior
 
@@ -38,7 +39,8 @@ The following behaviors are considered harassment and are unacceptable within ou
  * Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
  * Inappropriate photography or recording.
  * Inappropriate physical contact. You should have someone's consent before touching them.
- * Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
+ * Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcome sexual advances.
+ * Inappropriate photography or recording.
  * Deliberate intimidation, stalking or following (online or in person).
  * Advocating for, or encouraging, any of the above behavior.
  * Sustained disruption of community events, including talks and presentations.
@@ -65,7 +67,7 @@ Additionally, community organizers are available to help community members engag
 
 ## 8. Addressing Grievances
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify Data4Democracy with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. 
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify Data4Democracy with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
 
 
 
@@ -81,7 +83,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 11. License and attribution
 
-The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
+The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
 
 Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
